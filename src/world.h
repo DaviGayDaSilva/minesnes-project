@@ -1,0 +1,1 @@
+#ifndef WORLD_H\n#define WORLD_H\n\n// World management functions and definitions\n\n// Function to initialize the world\nvoid initWorld();\n\n// Function to update the world\nvoid updateWorld();\n\n// Function to render the world\nvoid renderWorld();\n\n#endif // WORLD_H
